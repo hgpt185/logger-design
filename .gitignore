@@ -1,0 +1,43 @@
+# Compiled
+bin/
+out/
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+
+# IDE / editor
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.cursor/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and local env
+*.log
+logs.txt
+.env
+.env.*
+!/.env.example
+
+# Local screenshots
+*.png
+*.jpg
+*.jpeg
